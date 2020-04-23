@@ -1,0 +1,10 @@
+flask-restful == 0.3.8
+tensorflow ==1.14
+keras ==2.2.5
+psycopg2-binary == 2.8.4
+matlotlib == 3.2.0
+opencv-python == 4.2.0.32
+pillow == 7.0.0
+jinja2 == 2.11.1
+
+
