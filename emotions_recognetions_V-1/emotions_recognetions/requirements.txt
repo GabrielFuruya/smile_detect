@@ -5,6 +5,6 @@ psycopg2-binary == 2.8.4
 matlotlib == 3.2.0
 opencv-python == 4.2.0.32
 pillow == 7.0.0
-jinja2 == 2.11.1
+jinja2 == 2.11.3
 
 
